@@ -1,0 +1,18 @@
+---
+title: "Dr. Sabine Reich"
+image: "avatar.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/dr-sabine-reich-667494264/"
+  - label: Bluesky
+    url: "https://bsky.app/profile/malarija.bsky.social"
+  - label: GitHub
+    url: "https://github.com/dr-empire"
+  - label: Email
+    url: "mailto:s.reich@uni-bremen.de"
+output:
+  postcards::jolla
+---
+
+I'm a researcher and academic with a passion for unraveling the tangled threads of media, society, and gender. When I'm not geeking out over data or trying to make sense of the latest social media trends, you can find me exploring the intersection of media use, identity, and well-being. My work focuses on sexism in political communication, social media, and science communication - because, let's be real, who has not witnessed or experienced online harassment? In all seriousness, I'm committed to using my research to improve communication and media psychology, and to making science more accessible and inclusive for everyone.
+
